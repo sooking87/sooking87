@@ -10,5 +10,5 @@ sksohn01](http://mazassumnida.wtf/api/mini/generate_badge?boj=sksohn01)](https:/
 
 <img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=flat-square&logo=Python&logoColor=white"/> -> tempSave
 
-<a href=https://sooking87.github.io/ target="_blank"><img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=for-the-badge&logo=appveyor&logo=Pocket&logoColor=#2496ED"/></a>
+<a href=https://sooking87.github.io/ target="_blank"><img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=for-the-badge&logo=appveyor&logo=Pocket&logoColor=white"/></a>
 
