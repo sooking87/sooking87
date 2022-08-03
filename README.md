@@ -12,3 +12,9 @@ sksohn01](http://mazassumnida.wtf/api/mini/generate_badge?boj=sksohn01)](https:/
 
 <a align="center" href=https://sooking87.github.io/ target="_blank"><img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=for-the-badge&logo=appveyor"/></a>
 
+<div align="center">
+  
+  <a align="center" href=https://sooking87.github.io/ target="_blank"><img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=for-the-badge&logo=appveyor"/></a>
+  
+</div>
+  
