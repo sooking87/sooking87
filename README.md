@@ -31,8 +31,8 @@ sksohn01](http://mazassumnida.wtf/api/mini/generate_badge?boj=sksohn01)](https:/
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> &nbsp 
-  <img src="https://img.shields.io/badge/React-191A1B?style=flat&logo=React&logoColor=61DAFB"/> &nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/React-191A1B?style=flat&logo=React&logoColor=61DAFB"/>&nbsp 
 
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
