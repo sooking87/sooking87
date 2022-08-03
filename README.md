@@ -9,6 +9,6 @@ sksohn01](http://mazassumnida.wtf/api/mini/generate_badge?boj=sksohn01)](https:/
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <a href=https://sooking87.github.io/ target="_blank"><img src="
-https://img.shields.io/badge/Blog-sooking87.github.io-blue?style=for-the-badge&logo=appveyor/></a>
+https://img.shields.io/badge/Blog-sooking87.github.io-blue/></a>
 
 https://img.shields.io/badge/Blog-sooking87.github.io-blue
