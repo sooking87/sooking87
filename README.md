@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Solved.ac
-sksohn01](http://mazassumnida.wtf/api/mini/generate_badge?boj={sksohn01})](https://solved.ac/{sksohn01})
+sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)](https://solved.ac/sksohn01)
 <!--
 **sooking87/sooking87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
