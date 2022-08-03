@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=0:535E7F,100:112666&height=300&section=header&text=sooking87's%20Github&fontSize=70&animation=fadeIn)
 
 <h2 align="center">🚀 ME 🚀</h2>
-
  
-  <span align="left">![Solved.ac
-sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)</span>
+<div align="center">
+ 
+  ![Solved.ac
+sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)
   
   <a align="right" href=https://sooking87.github.io/ target="_blank"><img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=for-the-badge&logo=appveyor"/></a> 
  
+</div>
 
 <br/>
 
