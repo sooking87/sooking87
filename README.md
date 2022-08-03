@@ -18,5 +18,5 @@ sksohn01](http://mazassumnida.wtf/api/mini/generate_badge?boj=sksohn01)](https:/
   
 </div>
 
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
   
