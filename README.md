@@ -2,7 +2,7 @@
 
 <h2 align="center">🚀 ME 🚀</h2>
 
-<div align="center">
+<div align="center" style="display: flex">
   <a align="center" href=https://sooking87.github.io/ target="_blank"><img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=for-the-badge&logo=appveyor"/></a>&nbsp 
   
   [![Solved.ac
