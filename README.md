@@ -5,7 +5,7 @@
 <div align="center">
   
   ![Solved.ac
-sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)](https://solved.ac/sksohn01)
+sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)]
   
   <a align="center" href=https://sooking87.github.io/ target="_blank"><img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=for-the-badge&logo=appveyor"/></a> 
  
