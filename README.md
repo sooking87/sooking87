@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=0:FFFFFF,100:112666&height=300&section=header&text=sooking87's%20Github&fontSize=70&animation=fadeIn)
-
 <h2 align="center">🚀 ME 🚀</h2>
  
 <div align="center">
