@@ -18,7 +18,7 @@ sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)
 <div align="center">
   
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-191A1B?style=flat&logo=React&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-D84A3F?style=flat&logo=Flask&logoColor=120E1E"/>
   
 </div>
 
@@ -28,7 +28,7 @@ sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)
 
 
 <div align="center">
-  
+  <img src="https://img.shields.io/badge/React-191A1B?style=flat&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
