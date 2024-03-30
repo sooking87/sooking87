@@ -1,6 +1,8 @@
 <h2 align="center">🚀 ME 🚀</h2>
+<div align="center">
   <a align="right" href=https://sooking87.github.io/ target="_blank"><img src="https://img.shields.io/badge/Blog-sooking87.github.io-3766AB?style=for-the-badge&logo=appveyor"/></a> 
-  
+</div>
+
 ![profile](./_profile-001.jpg)
 
 
@@ -9,8 +11,6 @@
  
   ![Solved.ac
 sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)
-  
-
  
 </div>
 
