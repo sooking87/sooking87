@@ -11,6 +11,8 @@ sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)
  
 </div>
 
+![profile](./_profile-001.jpg)
+
 <br/>
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
