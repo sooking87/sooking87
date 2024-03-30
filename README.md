@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=4E648E&section=header&height=200&text=sooking87%20Github&&animation=fadeIn&fontSize=35&fontAlign=70&fontAlignY=29&rotate=15)
+![profile](./_profile-001.jpg)
 
 <h2 align="center">🚀 ME 🚀</h2>
  
@@ -11,7 +11,6 @@ sksohn01](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksohn01)
  
 </div>
 
-![profile](./_profile-001.jpg)
 
 <br/>
 
